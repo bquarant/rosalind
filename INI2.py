@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 '''
-A solution to a ROSALIND problem from the Python location.  
 Problem Title: Variables and Some Arithmetic
 Rosalind Python ID: INI2
 Rosalind Python #: 002
